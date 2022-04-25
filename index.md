@@ -1,8 +1,8 @@
 # Curriculum Vitea
 ### Moussa Keita
 <img src="20201024_181039-1.jpg" with="100px" height="200"> <br>
-### Histarial academico <br>
-#### Manolo hugué <br>
+### Historial académico <br>
+#### Instituto Manolo hugué <br>
 14 de septiembre del 2019 – 22 de junio del 2020 <br>
 Estudie la eso en manolo hugué, Caldes de montbui <br>
 #### Innovación en formación profesional (ifp) <br>
@@ -24,11 +24,12 @@ Keitamoussap2003@gmail.com
 salir con los amigos <br>
 jugar a los videojuegos <br>
 Jugar a fútbol <br>
-### Idioma
+### Idiomas
 Castellano <br>
 Catalan <br>
 Mandinga <br>
 ### Mis proyectos
 <a href="/Proyecto pagina web/">pagina web </a>
+<a href="//"> </a>
 
 
