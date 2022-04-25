@@ -21,12 +21,12 @@ TELÉFONO:
 CORREO ELECTRÓNICO:
 Keitamoussap2003@gmail.com
 ### Aficiones
-salir con los amigos
-jugar a los videojuegos
-Jugar a fútbol
+salir con los amigos <br>
+jugar a los videojuegos <br<
+Jugar a fútbol <br>
 ### Idioma
-Castellano
-Catalan
-Mandinga
+Castellano <br>
+Catalan <br>
+Mandinga <br>
 
 
