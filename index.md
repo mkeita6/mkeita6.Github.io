@@ -5,7 +5,7 @@
 #### Manolo hugué <br>
 14 de septiembre del 2019 – 22 de junio del 2020 <br>
 Estudie la eso en manolo hugué, Caldes de montbui <br>
-#### Innovación en formación laboral (ifp) <br>
+#### Innovación en formación profesional (ifp) <br>
 Ahora mismo estoy haciendo un curso de informática <br> 
 de grado medio durar dos años,  y estoy haciendo el segundo. <br>
 ### Experiencia 
