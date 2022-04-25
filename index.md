@@ -12,8 +12,8 @@ de grado medio durar dos años,  y estoy haciendo el segundo. <br>
 #### tienda de comida de animales
 En mi anterior trabajo yo me encargaba de ayudar  a los clientes
 ### dirección
-Bellpuig 25 ES.IZQ 3,2 <br>
-Código postal
+Bellpuig 25 ES IZQ 3 2 <br>
+Código postal <br>
 08203
 ### Contacto
 TELÉFONO:
