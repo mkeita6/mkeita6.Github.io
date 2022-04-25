@@ -22,7 +22,7 @@ CORREO ELECTRÓNICO:
 Keitamoussap2003@gmail.com
 ### Aficiones
 salir con los amigos <br>
-jugar a los videojuegos <br<
+jugar a los videojuegos <br>
 Jugar a fútbol <br>
 ### Idioma
 Castellano <br>
