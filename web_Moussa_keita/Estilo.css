@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    top: 0;
+    background-color:#0000ff;
+
+}
+
+header img{
+    width: 90px;
+    height: 80px;
+    float: left;
+    margin-right: 4px;
+    margin-top: 18px;
+    padding-left: 18px;
+}
+
+header .logo{
+    float: left;
+    margin-top: 35px;
+    color: #ffffff;
+}
+
+
+nav{
+    padding: 100px;
+}
+
+nav ul li{
+    float: right;
+    margin-top: 60px;
+    padding: 12px;
+    list-style: none;
+}
+
+nav ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+}
+
+nav ul li a:hover{
+    background-color: greenyellow;
+}
+nav li ul{
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+nav li:hover ul{
+    display:block ;
+}
+
+nav li ul li{
+    position: relative;
+}
+
+.chaqueta{
+    float: left;
+    margin: 20px;
+    padding: 12px;
+}
+
+.chaqueta h1{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+    
+}
+
+.chaqueta h2{
+    font-family: Arial;
+    font-style: normal;
+}
+.chaqueta p{
+    font-family: Georgia;
+}
+
+.bufanda{
+    float: left;
+    margin: 20px;
+    padding: 12px;
+}
+
+
+.bufanda h1{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+    
+}
+
+.pantalones{
+    position: relative;
+    padding: 32px;
+    margin: 20px;
+
+}
+
+.pantalones h1{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+    
+
+}
+
+
+
+
+footer{
+    background-color: blue;
+}
+
+
